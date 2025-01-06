@@ -8,7 +8,7 @@
 
 
 ### Testes
-O projeto foi testado utilizando JUnit, assegurando a precisão e a robustez das implementações.
+O projeto utiliza o **JUnit Jupiter** para implementar e validar testes unitários.  
 
 ### Estrutura de Pastas  
 O espaço de trabalho contém duas pastas por padrão, onde:  
