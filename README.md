@@ -1,7 +1,6 @@
 ## Projeto Dataset e Similaridade de Pessoas
-Este projeto foi desenvolvido em Java com o objetivo de explorar conceitos de manipulação de datasets, cálculo de distâncias e similaridades entre pessoas.
 
-## Principais Funcionalidades
+### Principais Funcionalidades
 Gerenciamento de dataset: Adição, remoção, substituição e busca de registros.
 Cálculo de distâncias: Medição de similaridade entre pessoas com base em atributos normalizados (altura, peso, estado civil, hobbies, etc.).
 Normalização de atributos: Garantia de análise consistente por meio da padronização de valores.
