@@ -1,10 +1,11 @@
 ## Projeto Dataset e Similaridade de Pessoas
 
 ### Principais Funcionalidades
-Gerenciamento de dataset: Adição, remoção, substituição e busca de registros.
-Cálculo de distâncias: Medição de similaridade entre pessoas com base em atributos normalizados (altura, peso, estado civil, hobbies, etc.).
-Normalização de atributos: Garantia de análise consistente por meio da padronização de valores.
-Identificação de similaridade: Identificação das pessoas mais próximas no dataset, com base nas métricas calculadas.
+- **Gerenciamento de dataset:** Adição, remoção, substituição e busca de registros.
+- **Cálculo de distâncias:** Medição de similaridade entre pessoas com base em atributos normalizados (altura, peso, estado civil, hobbies, etc.).
+- **Normalização de atributos:** Garantia de análise consistente por meio da padronização de valores.
+- **Identificação de similaridade:** Identificação das pessoas mais próximas no dataset, com base nas métricas calculadas.
+
 
 ### Testes
 O projeto foi testado utilizando JUnit, assegurando a precisão e a robustez das implementações.
